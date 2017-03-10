@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Обо мне</title>
+		<link href="CSS/about_me.css" type="text/css" rel="stylesheet"/>
+	</head>
+	<body>
+	
+		<div id="header">
+				<div id="top-header">
+						<div id="logo">
+							<a href="index.html"><img src="images/logo1.png" alt="Логотип"/></a>
+						</div>
+						
+						<div id="email">
+							<a href="mailto:alina160498@gmail.com"><img src="images/mail.png" alt="Написать письмо"/></a>
+						</div>
+					</div>
+		</div>
+			
+		
+		<div id="glav-block">
+		
+			<div id="picture">
+				<div id="block">
+					<img src="images/block2.png" alt="Обо мне"/>
+					<p>Обо мне</p>
+				</div>
+						
+				<div id="photo">
+					<img src="images/photo.png">
+					<p>Alina Potashova</p>
+				</div>		
+			</div>
+			
+			<div id="wrapper">
+				<div id="menu">
+					<ul>
+						<li><a href="index.html">Главная</a></li>
+						<li><a href="about_me.html">Обо мне</a></li>
+						<li><a href="gallery.html">Галерея</a></li>
+						<li><a href="#">Развлечения</a></li>
+					</ul>	
+					
+					
+				</div>
+				
+				<div id="about_me">
+				
+				<img id="my_photo" src="images/NIK_2529-1.jpg" alt="Мое фото">
+				
+				
+					<h1>Обо мне</h1>
+					<table>
+						<tr>
+							<td class="left-coloum">ФИО</td>
+							<td class="right-coloum">Поташова Алина Валерьевна</td>
+						</tr>
+						
+						<tr>
+							<td class="left-coloum">Место рождения</td>
+							<td class="right-coloum">Россия, г.Инза</td>
+						</tr>
+						
+						<tr>
+							<td class="left-coloum">Место проживания</td>
+							<td class="right-coloum">Россия, г.Ульяновск</td>
+						</tr>
+					</table>
+
+					<h2>Мои предпочтения</h2>
+					
+					<table>
+						
+						<tr>
+							<td class="left-coloum">Музыка</td>
+							<td class="right-coloum">k-pop, rock</td>
+						</tr>
+						
+						<tr>
+							<td class="left-coloum">Фильмы</td>
+							<td class="right-coloum">Приключения, фантастика, триллер, комедия</td>
+						</tr>
+						
+						<tr>
+							<td class="left-coloum">Книги</td>
+							<td class="right-coloum">Постапокалипсис, приключения, фэнтези, детектив</td>
+						</tr>
+				
+					</table>
+				
+				</div>
+		</div>
+	</body>
+</html>
